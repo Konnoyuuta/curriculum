@@ -8,6 +8,7 @@ public class Main {
 		  	String firstName = "Yuta";
 		  	String lastName = "Konno";
 		  	
+		  	
 
 	        //getName関数の呼び出しと出力
 	        System.out.println(getName(firstName, lastName));
