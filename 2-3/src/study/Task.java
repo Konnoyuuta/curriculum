@@ -13,6 +13,7 @@ public class Task extends Calculator{
     	System.out.println("plusメソッドの引数が1つの場合；"+super.plus(10,20));
     	System.out.println("plusメソッドの引数が1つの場合；"+super.plus(10,20,30));
 
+    	
 
     }
 }
